@@ -110,7 +110,8 @@ const styles = StyleSheet.create({
     marginBottom: 5
   },
   desCon : {
-    fontSize: 17
+    fontSize: 17,
+    fontWeight: '600'
   },
   imageCon : {
     width: 200, 
